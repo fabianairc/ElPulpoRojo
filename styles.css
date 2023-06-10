@@ -1,0 +1,48 @@
+header {
+  background-image: url(./3079485.png);
+  height: 15em;
+  opacity: 0.9;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  color: white;
+  padding: 2%;
+  font-size: 4em;
+  padding-bottom: 1%;
+  font-weight: bolder;
+}
+h3 {
+  color: white;
+  padding: 2%;
+  padding-top: 1%;
+  font-size: 2em;
+}
+header p {
+  color: white;
+  padding-left: 2%;
+  padding-top: 2%;
+  margin-bottom: 0;
+  font-weight: bold;
+}
+.container {
+  margin: 1%;
+  margin-top: 3%;
+  text-align: justify;
+}
+
+.container p {
+  padding-top: 4%;
+  padding-bottom: 2%;
+  line-height: 2;
+}
+ul {
+  padding-top: 0%;
+  line-height: 2;
+}
+.list {
+  padding-bottom: 0%;
+  margin-bottom: 0%;
+}
